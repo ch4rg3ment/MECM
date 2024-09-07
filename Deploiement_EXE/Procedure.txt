@@ -1,0 +1,5 @@
+====== Deploiement Logiciel EXE ======
+
+Ouverture explorateur (A:\Bases) -> suivre la nomenclature de 1 à 7  en vérifiant si les logiciel sont a jours via le lien cliquable "Téléchargements" ou "Historique" ou "Version"-> comparer si la version est la même sur le site que sur l'explorateur. -> si nouvelle mise a jours -> télécharger la maj -> vérifier version de l'exe dans "propriété" -> changer la date sur le dossier si besoin -> \\SERVER\Sccm$ -> Selon l'endroit sélectionner le dossier correspondant (La plus part sont dans 0R "0Robin" pour tout le parc -> Selon le type de logiciel recherché le dossier source EX : ( \\SERVER\Sccm$\0R\Appli\Base\4Media\Edge\64) pour Edge -> 
+
+Ouvrir MECM -> Bibliothèque de logiciels 
